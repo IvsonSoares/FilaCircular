@@ -1,2 +1,2 @@
-fila/.vscode
-fila/bin
+**/fila/.vscode/
+**/fila/bin/
